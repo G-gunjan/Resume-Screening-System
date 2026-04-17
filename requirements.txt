@@ -1,0 +1,10 @@
+streamlit
+spacy
+pdfplumber
+python-docx
+torch
+transformers
+scikit-learn
+pandas
+plotly
+requests
