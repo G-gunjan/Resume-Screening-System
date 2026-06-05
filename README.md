@@ -1,5 +1,5 @@
 Resume Screening System
 
-<video width="800" controls>
-  <source src="Screen-Recording.mp4" type="video/mp4">
-</video>
+## Demo Video
+
+🎥 [Watch Demo Video](https://raw.githubusercontent.com/G-gunjan/Resume-Screening-System/main/Screen-Recording.mp4)
